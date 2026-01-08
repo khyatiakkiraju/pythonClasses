@@ -18,5 +18,5 @@ print(f"""
     mul : {number1 * number2}
     div : {number1 / number2}
     rem : {number1 + number2}
-    power : {number1 + number2}
+    power : {number1 **number2}
 """)
